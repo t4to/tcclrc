@@ -1,0 +1,15 @@
+Fundamentação teórica
+
+- Internet (20%)
+-- Surgimento (Histórico)
+--- No Brasil
+---- Abrangência
+
+- Redes sociais (50%)
+-- Surgimento
+-- No Brasil
+--- Abrangência
+-- Futuro
+
+- Desenvolvimento Ágil para Internet (30%)
+-- Framework Ruby On Rails
