@@ -44,4 +44,5 @@ http://siteanalytics.compete.com/twitter.com/ ??
 [jQuery Mobile]
 http://www.amazon.com/jQuery-Mobile-Jon-Reid/dp/1449306683/ref=sr_1_1?s=books&ie=UTF8&qid=1310602195&sr=1-1 - 13/07/2011
 http://www.labnol.org/software/jquery-book-free-download/13980/
+http://www.archer-group.com/development/what-is-jquery-mobile - 20/07/2011
 
