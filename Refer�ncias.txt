@@ -45,4 +45,5 @@ http://siteanalytics.compete.com/twitter.com/ ??
 http://www.amazon.com/jQuery-Mobile-Jon-Reid/dp/1449306683/ref=sr_1_1?s=books&ie=UTF8&qid=1310602195&sr=1-1 - 13/07/2011
 http://www.labnol.org/software/jquery-book-free-download/13980/
 http://www.archer-group.com/development/what-is-jquery-mobile - 20/07/2011
-
+http://www.amazon.com/Beginning-Rails-Experts-Voice-Development/dp/1430224339/ref=sr_1_5?s=books&ie=UTF8&qid=1311451801&sr=1-5 - 23/07/2011 - VER
+http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html - 23/07/2011 - VER
