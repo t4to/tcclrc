@@ -51,3 +51,6 @@ http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html - 23/07/2011 - 
 [Desenv. Ágil]
 http://www.agilemanifesto.org/iso/ptbr/ - 24/07/2011
 http://www.agilealliance.org/ - 24/07/2011
+
+[Mídia Social]
+http://www.i9socialmedia.com/isso-e-midia-social - 27/07/2011
