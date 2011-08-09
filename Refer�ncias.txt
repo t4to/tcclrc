@@ -12,6 +12,9 @@ http://www.setelagoas.com.br/vagner-lourenco/1274-acesso-a-internet-do-surgiment
 http://www.suapesquisa.com/internet/ - dia 07/06/11
 http://tecnologia.terra.com.br/internet10anos/interna/0,,OI546299-EI5026,00.html - 07/06/11
 
+http://www.ndig.com.br/item/2011/01/os-impressionantes-nmeros-da-internet-em-2010 - 9/8/2011
+ - http://royal.pingdom.com/2011/01/12/internet-2010-in-numbers/ - 9/8/2011
+
 [Redes Sociais]
 http://pt.scribd.com/doc/32093528/Monografia-Twitter-como-Canal-de-Comunicacao-Externa-das-Empresas-Acao-nas-Redes-Sociais - dia 08/06/11
 http://www.internetworldstats.com/stats.htm - dia 19/06/11
@@ -39,6 +42,9 @@ http://www.sysomos.com/insidetwitter/geography/ - 12/07/2011 - VER**************
 http://www.mestreseo.com.br/twitter-seo/estatisticas-twitter-brasil - 12/07/2011
 
 http://siteanalytics.compete.com/twitter.com/ ??
+
+http://www.ndig.com.br/item/2011/05/oito-dados-sobre-o-crescimento-do-twitter - 9/8/2011
+ - http://www.ticbeat.com/socialmedia/8-cifras-crecimiento-twitter/ - 9/8/2011
 
 
 [jQuery Mobile]
